@@ -1,0 +1,9 @@
+{
+  "name": "smile-chat-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": { "dev": "node local-dev.js", "start": "node local-dev.js" },
+  "devDependencies": { "express": "^4.19.2" }
+}
